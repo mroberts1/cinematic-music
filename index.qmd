@@ -60,7 +60,7 @@ Music: Radiohead, “Everything In Its Right Place” (Kid A, Capitol Records, 2
 
 ### Superior Mirages
 
-<iframe src="https://player.vimeo.com/video/700581439?h=2668187516&color=59C4A2&title=0&byline=0&portrait=0" width="600" height="336" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<br><iframe src="https://player.vimeo.com/video/700581439?h=2668187516&color=59C4A2&title=0&byline=0&portrait=0" width="600" height="336" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 From 1969-72, the UK psychedelic group Pink Floyd composed soundtracks for a number of films, including Barbet Schroeder’s **More** (1969), Michelangelo Antonioni’s **Zabriskie Point** (1970), and Barbet Schroeder’s **La Vallée** (1972) (the latter subsequently released as the album **Obscured by Clouds** (Harvest, 1972).
 
@@ -76,7 +76,7 @@ Music: Pink Floyd, “Shine On You Crazy Diamond (Part 8)” (Wish You Were Here
 
 ### Man With A Movie Camera
 
-<iframe src="https://player.vimeo.com/video/708401254?h=e2f3a74494&color=59C4A2&title=0&byline=0&portrait=0" width="600" height="336" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<br><iframe src="https://player.vimeo.com/video/708401254?h=e2f3a74494&color=59C4A2&title=0&byline=0&portrait=0" width="600" height="336" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 Film: **Man With A Movie Camera** (Dziga Vertov, 1929)\
 Music: Cinematic Orchestra (**Man With A Movie Camera**, Ninja Tune, 2003)
@@ -87,7 +87,7 @@ I didn’t make this one - it’s one of a number of alternate soundtracks compo
 
 ### Subterranean Homesick Alien
 
-<iframe width="600" height="336" src="https://www.youtube.com/embed/2Y6Obk_WeC0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><iframe width="600" height="336" src="https://www.youtube.com/embed/2Y6Obk_WeC0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Music video: uncredited student project\
 Music: Radiohead, “Subterranean Homesick Alien” (**OK Computer**, XL Recordings, Ltd., 1997)
@@ -96,7 +96,7 @@ Music: Radiohead, “Subterranean Homesick Alien” (**OK Computer**, XL Recordi
 
 ### Guinnevere
 
-<iframe src="https://player.vimeo.com/video/709942445?h=e2f3a74494&color=59C4A2&title=0&byline=0&portrait=0" width="600" height="336" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<br><iframe src="https://player.vimeo.com/video/709942445?h=e2f3a74494&color=59C4A2&title=0&byline=0&portrait=0" width="600" height="336" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 Video: **DEVS** (Alex Garland, 2020), Episode 6, opening credits\
 Music: Crosby, Stills, & Nash, “Guinnevere” (**Crosby, Stills, & Nash**, Atlantic, 1969)
