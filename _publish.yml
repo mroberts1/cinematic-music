@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 92e8ccdc-9e94-4c5e-bb72-1c6b05f2082e
+      url: https://cosmic-kitten-fc3c59.netlify.app
