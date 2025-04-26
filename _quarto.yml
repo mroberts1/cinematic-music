@@ -1,0 +1,35 @@
+project:
+  type: website
+  resources:
+  - "pdf/*.pdf"
+  
+website:
+  title: "    "
+format:
+  html:
+    toc: false
+    toc-depth: 3
+    toc-location: right
+    toc-title: '   '
+    theme:
+      light: ember.scss
+      dark: [ember.scss, slate]
+    css: custom.scss
+    self-contained: false
+    grid:
+        #sidebar-width: 300px
+        body-width: 600px
+        #margin-width: 350px
+        #gutter-width: 1em
+    linestretch: 1.2
+    fontsize: 1.2em
+    smooth-scroll: true
+    linkcolor: "#62259d"
+    link-external-newwindow: true
+fig-responsive: true
+image-alt: " "
+execute:
+  freeze: auto
+reference-location: margin
+citation-location: margin
+editor: source
