@@ -29,18 +29,18 @@
 }
 
 // use Atkinson Hyperlegible font if available
-$font-family-sans-serif:  "Europa", "Source Sans", "Inter", "IBM Plex Sans", "Public Sans", "Noto Sans", "Atkinson Hyperlegible", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial,  sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+$font-family-sans-serif:  "Helvetica Neue", "Europa", "Source Sans", "Inter", "IBM Plex Sans", "Public Sans", "Noto Sans", "Atkinson Hyperlegible", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial,  sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 
 // use IBM Plex Mono
 $font-family-monospace: "Overpass Mono", "Roboto Mono", "IBM Plex Mono", monospace, monospace;
 
-$font-family-serif: "Helvetica Neue", "Source Serif Pro", "Literata", "Piazzolla", serif;
+$font-family-serif: "Georgia", "Literata", "Piazzolla", serif;
 
 /*-- scss:rules --*/
 
 // litera is serif by default: revert to san-serif
 p, li, {
-  font-family: $font-family-sans-serif;
+  font-family: $font-family-serif;
 }
 
 h1 {
@@ -48,7 +48,7 @@ h1 {
      text-transform:uppercase;
      color:#000000;
      font-family: 'HelveticaNeueLTStd-BdEx', sans-serif;
-     font-size: 26px;
+     font-size: 28px;
      font-weight: 600;
      letter-spacing: 1px;
 }
@@ -58,7 +58,7 @@ h2, h3, h4, h5, h6 {
      text-transform:uppercase;
      color:#000000;
      font-family: 'HelveticaNeueLTStd-BdEx', sans-serif;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 600;
     letter-spacing: 1px;
 }
