@@ -45,16 +45,20 @@ The resulting video is thus a four-part homage to Nietzsche, Mahler, Visconti, a
 
 ---
 
+### Underworld
+
 This was originally an assignment for my course at Emerson College, VM402-09 Soundtracks: Music & Audiovisual Media, taught in Spring 2019. The first two videos were produced as demos for the assignment. I’ve added a couple of other examples of a film and a student-made music video that also exemplify the alternate-soundtrack concept.
 
 <iframe src="https://player.vimeo.com/video/700577451?h=f41931040f&color=59C4A2&title=0&byline=0&portrait=0" width="600" height="336" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-Mica Levi’s [score](https://www.theguardian.com/music/2014/mar/15/mica-levi-under-the-skin-soundtrack) for Jonathan Glazer’s eerie sci-fi film **Under The Skin** (2013) is atonal and appropriately alien. I was fascinated by the sequences of the film in which the alien played by Scarlett Johansson lures unsuspecting Scotsmen to their doom in some kind of amber-like underworld, which was visually remarkably similar to the “Dark Place” sequence in Jordan Peele’s **Get Out** (2017). My original idea was to juxtapose the two films, but the Radiohead track fitted the **Under The Skin** sequence so perfectly that it seemed like overkill to include anything else.
+Mica Levi’s [score](https://www.theguardian.com/music/2014/mar/15/mica-levi-under-the-skin-soundtrack) for Jonathan Glazer’s eerie sci-fi film **Under The Skin** (2013) is atonal and appropriately alien. I was fascinated by the sequences of the film in which the alien played by Scarlett Johansson lures unsuspecting Scotsmen to their doom in some kind of amber-like underworld, which was visually remarkably similar to the “Sunken Place” sequence in Jordan Peele’s **Get Out** (2017). My original idea was to juxtapose the two films, but the Radiohead track fitted the **Under The Skin** sequence so perfectly that it seemed like overkill to include anything else.
 
 Film: **Under the Skin** (Jonathan Glazer, 2012)\
 Music: Radiohead, “Everything In Its Right Place” (Kid A, Capitol Records, 2000)
 
 ---
+
+### Superior Mirages
 
 <iframe src="https://player.vimeo.com/video/700581439?h=2668187516&color=59C4A2&title=0&byline=0&portrait=0" width="600" height="336" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
@@ -70,6 +74,8 @@ Music: Pink Floyd, “Shine On You Crazy Diamond (Part 8)” (Wish You Were Here
 
 ---
 
+### Man With A Movie Camera
+
 <iframe src="https://player.vimeo.com/video/708401254?h=e2f3a74494&color=59C4A2&title=0&byline=0&portrait=0" width="600" height="336" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 Film: **Man With A Movie Camera** (Dziga Vertov, 1929)\
@@ -79,12 +85,16 @@ I didn’t make this one - it’s one of a number of alternate soundtracks compo
 
 ---
 
+### Subterranean Homesick Alien
+
 <iframe width="600" height="336" src="https://www.youtube.com/embed/2Y6Obk_WeC0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Music video: uncredited student project\
 Music: Radiohead, “Subterranean Homesick Alien” (**OK Computer**, XL Recordings, Ltd., 1997)
 
 ---
+
+### Guinnevere
 
 <iframe src="https://player.vimeo.com/video/709942445?h=e2f3a74494&color=59C4A2&title=0&byline=0&portrait=0" width="600" height="336" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
